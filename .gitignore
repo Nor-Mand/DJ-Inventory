@@ -1,0 +1,6 @@
+env/
+db.sqlite3
+.idea/
+.idea/*.iml
+__pycache__/
+base/__pycache__/
